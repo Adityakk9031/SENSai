@@ -87,60 +87,6 @@ Edit
 npm run dev
 # or
 pnpm dev
-📄 .env.example
-env
-Copy
-Edit
-DATABASE_URL=
-CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_FRONTEND_API=
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-GOOGLE_GEMINI_API_KEY=
-🎯 Roadmap
- Gemini AI Industry Insights
-
- Custom Resume Builder (Markdown → PDF)
-
- Mock Interview Generator
-
- Inngest Cron-based Weekly Insights
-
- Job Application Tracker (coming soon)
-
- AI Interview Feedback (coming soon)
-
-🙌 Contributing
-Fork the repository
-
-Create a new branch: git checkout -b feature-name
-
-Commit your changes: git commit -m 'Add feature'
-
-Push and open a pull request
-
-👨‍💻 Author
-Aditya Kumar Singh
-
-Final-year B.Tech CSE student passionate about full-stack engineering, AI, and building impactful SaaS tools.
-
-LinkedIn
-
-Portfolio
-
-Email
-
-📄 License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like the Markdown resume template or a `contribute.md`, `LICENSE`, or even CI setup next.
-
 
 
 
